@@ -1,0 +1,13 @@
+DROP TABLE CurrentPatient_Refers_NewPatient;
+DROP TABLE Patient_have_Insurer;
+DROP TABLE PaymentPlan_Payment_Installment;
+DROP TABLE Bill_Full_Payment; 
+DROP TABLE Payment_Plan; 
+DROP TABLE Patient_Bill;
+DROP TABLE Dentist_Patient_Appointment;
+DROP TABLE Insurance; 
+DROP TABLE Money;
+DROP TABLE Payment;
+DROP TABLE Insurer; 
+DROP TABLE Patient; 
+DROP TABLE Dentist;
